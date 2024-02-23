@@ -1,7 +1,7 @@
 Learning Activities & Resources
 This week’s activity I made a basic website based on a made up bakery with three pages that link to each other. The practical was more of a refresher for web development and just using the basics to make up a website. I used github pages because for some reason Siteground won’t let me make an account.
 
-https://github.com/dmcdonald95/startup
+https://dmcdonald95.github.io/startup/
 
 Estimated Hours
 About 4 hours this week
